@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-wc0dl4.nuansa138win.space/sitemap.xml
